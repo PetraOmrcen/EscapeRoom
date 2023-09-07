@@ -1,2 +1,2 @@
-# EscapeRoom
-Završni
+# Escape room in augmented reality
+
